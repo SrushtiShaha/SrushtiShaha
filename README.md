@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I'm Srushti Shaha
 
-<!--
-**SrushtiShaha/SrushtiShaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Full Stack Developer  
+📍 Sangli, Maharashtra, India  
 
-Here are some ideas to get you started:
+Passionate about building scalable web applications with clean UI and efficient backend logic. Strong in problem-solving and eager to grow as a software developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- **Languages:** C, C++, Java, Python, C#
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express, .NET
+- **Databases:** MySQL, MongoDB, SQL Server
+- **Tools:** Git, VS Code, Visual Studio
+
+---
+
+## 📌 Projects
+- 🥐 **The Baker’s Edge** – Multi-vendor bakery web app (MERN)
+- 🍽️ **Restaurant Management System** – Role-based full-stack app
+- 🖥️ **Ayuraj Computer Shopee** – C#.NET inventory & billing system
+
+---
+
+## 📊 GitHub Stats
+![Srushti's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrushtiShaha&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrushtiShaha&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact
+📧 shahasrushti599@gmail.com  
+🔗 LinkedIn | GitHub

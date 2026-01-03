@@ -3,7 +3,12 @@
 🎓 MCA Student | 💻 Full Stack Developer (MERN)  
 📍 Sangli, Maharashtra, India  
 
-I’m passionate about building scalable web applications, writing clean code, and solving real-world problems using modern technologies.
+---
+
+## 🧠 About Me
+
+I am an MCA student with a strong foundation in full-stack web development, database management, and problem-solving.  
+I enjoy building scalable, real-world applications and writing clean, efficient code.
 
 ---
 

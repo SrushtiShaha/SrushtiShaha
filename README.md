@@ -24,12 +24,12 @@ Passionate about building scalable web applications with clean UI and efficient 
 ---
 
 ## 📊 GitHub Stats
-![Srushti's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrushtiShaha&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrushtiShaha&layout=compact&theme=radical)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrushtiShaha&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrushtiShaha&theme=tokyonight) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrushtiShaha&theme=tokyonight)
 
 ---
 
-## 📫 Contact
-📧 shahasrushti599@gmail.com  
-🔗 LinkedIn | GitHub
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/srushti-shaha-40406a28a/
+- 📧 Email: shahasrushti599@gmail.com
